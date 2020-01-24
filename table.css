@@ -10,3 +10,16 @@
     cursor: pointer;
     margin-top: 20px;
   }
+  .button1 {
+	background-color: #bac4be;
+	border: 1px solid rgb(243, 245, 248);
+	color: rgba(10, 10, 10, 0.966);
+	padding: 8px 8px;
+	text-align: center;
+	text-decoration: none;
+	font-size: 1em;
+	display: inline-block;
+	
+	border-radius: 5px;
+	box-shadow: 3px 3px 8px 0 #000; /* h-offset v-offset blur spread color */
+}
